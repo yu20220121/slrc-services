@@ -1,4 +1,4 @@
 module.exports = {
     publicPath: "./slrc-services",
-    assetsDir: ""
+    assetsDir: "./slrc-services"
   }
